@@ -1,0 +1,12 @@
+package paqueteGitExamen;
+
+public class GitExamen2 {
+	public static void main(String[] args) {
+	
+		System.out.println("Este es la rama 1 del examen");
+    System.out.println("Esta es la segunda liena");
+	}
+	
+	
+
+}
